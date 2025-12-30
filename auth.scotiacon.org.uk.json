@@ -1,4 +1,5 @@
 {
+  "ISSUER_URI": "https://auth-api.scotiacon.org.uk",
   "ORGANISATION_NAME": "Scotiacon Login",
   "TELEGRAM_BOT_ID": "7598588328"
 }
