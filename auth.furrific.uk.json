@@ -1,5 +1,5 @@
 {
-  "ISSUER_URI": "https://auth-api.furrific.uk",
+  "ISSUER_URI": "https://auth-api.furrific.uk/",
   "ORGANISATION_NAME": "Furrific Login",
   "TELEGRAM_BOT_ID": "8011214130"
 }
