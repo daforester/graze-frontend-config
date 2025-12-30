@@ -1,5 +1,5 @@
 {
-  "ISSUER_URI": "https://graze-auth-api.aberacon.wales",
+  "ISSUER_URI": "https://auth-api.aberacon.wales",
   "ORGANISATION_NAME": "Aberacon Login",
   "TELEGRAM_BOT_ID": "7101038292"
 }
