@@ -1,5 +1,4 @@
 {
-  "REGISTRATION_API_URL": "https://graze-snapshot-reg-api.scotiacon.org.uk/api",
-  "WELFARE_API_URL": "https://graze-snapshot-welfare-api.scotiacon.org.uk/api",
+  "API_URL": "https://graze-snapshot-reg-api.scotiacon.org.uk/api",
   "PROFILE_IMAGE_URL": "https://graze-snapshot-api.scotiacon.org.uk/store"
 }
