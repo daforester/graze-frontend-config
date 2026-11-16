@@ -1,4 +1,4 @@
 {
-  "API_URL": "https://graze-api.aberacon.wales/api",
-  "PROFILE_IMAGE_URL": "https://graze-api.aberacon.wales/store"
+  "API_URL": "https://reg-api.aberacon.wales/api",
+  "PROFILE_IMAGE_URL": "https://reg-api.aberacon.wales/store"
 }
